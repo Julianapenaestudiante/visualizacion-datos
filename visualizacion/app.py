@@ -3,6 +3,7 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 import plotly.express as px
+import os
 
 # Configuración de página
 st.set_page_config(
@@ -14,7 +15,7 @@ st.set_page_config(
 st.markdown("""
     <style>
         .main {
-            background-color: #f5f7fa;
+            background-color: #f5f7;
             padding: 20px;
             border-radius: 10px;
         }
@@ -35,7 +36,14 @@ st.markdown("""
 st.title("📈 Análisis de Ventas - TechNova Retail")
 
 # Subida del archivo
-archivo = st.file_uploader("📂 Sube el archivo CSV con datos de ventas", type=["csv"])
+
+
+st.sidebar.markdown("📂 Sube el archivo CSV con datos de ventas")
+
+archivo = st.file_uploader(" ", type=["csv"])
+
+if archivo is None:
+    archivo = "Ventas_Minoristas.csv"  # carga automática desde GitHub si no se sube nada
 
 if archivo is not None:
     # Cargar datos
