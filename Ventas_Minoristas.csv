@@ -1,0 +1,501 @@
+ID_cliente;Nombre_producto;Cantidad;Precio_unitario(USD);Fecha;categoria;pais;ciudad;metodo_pago;edad_cliente;genero_cliente;calificación_satisfaccion
+1;Reloj;5;$ 513;02/06/2024;Accesorios;Argentina;Buenos Aires;Efectivo;31;Femenino;3
+2;Televisor;1;$ 307;11/12/2023;Electrónica;Argentina;Buenos Aires;Efectivo;29;Masculino;2
+3;Laptop;9;$ 554;31/03/2024;Electrónica;España;Madrid;PayPal;40;Masculino;2
+4;Jeans;4;$ 932;24/02/2024;Ropa;México;Ciudad de México;Efectivo;60;Masculino;1
+5;Audífonos;6;$ 526;29/11/2023;Accesorios;Perú;Lima;Tarjeta de crédito;57;Masculino;5
+6;Audífonos;6;$ 275;14/07/2024;Accesorios;España;Madrid;Tarjeta de crédito;18;Masculino;2
+7;Smartphone;2;$ 879;30/12/2023;Electrónica;España;Madrid;Efectivo;42;Femenino;4
+8;Audífonos;8;$ 378;13/07/2024;Accesorios;Colombia;Bogotá;Efectivo;66;Femenino;3
+9;Televisor;9;$ 11;28/12/2023;Electrónica;Colombia;Bogotá;Tarjeta de crédito;45;Femenino;5
+10;Camisas Polo;7;$ 255;26/11/2023;Ropa;Chile;Santiago;Tarjeta de crédito;48;Femenino;4
+11;Reloj;5;$ 325;21/03/2024;Accesorios;España;Madrid;Efectivo;42;Femenino;3
+12;Laptop;8;$ 860;25/10/2023;Electrónica;España;Madrid;Efectivo;46;Femenino;4
+13;Laptop;4;$ 464;08/12/2023;Electrónica;Chile;Santiago;PayPal;42;Femenino;4
+14;Reloj;6;$ 450;08/07/2024;Accesorios;España;Madrid;Tarjeta de crédito;48;Femenino;5
+15;Cámara;4;$ 343;24/11/2023;Electrónica;España;Madrid;Efectivo;64;Femenino;3
+16;Smartphone;7;$ 882;03/05/2024;Electrónica;Chile;Santiago;Efectivo;50;Masculino;4
+17;Laptop;5;$ 946;06/06/2024;Electrónica;Chile;Santiago;Efectivo;64;Femenino;2
+18;Smartphone;8;$ 992;09/06/2024;Electrónica;Chile;Santiago;Tarjeta de crédito;53;Femenino;5
+19;Televisor;4;$ 383;05/06/2024;Electrónica;Argentina;Buenos Aires;PayPal;40;Masculino;1
+20;Smartphone;1;$ 966;23/12/2023;Electrónica;Colombia;Bogotá;Efectivo;65;Femenino;2
+21;Televisor;6;$ 794;15/05/2024;Electrónica;Chile;Santiago;PayPal;26;Femenino;3
+22;Laptop;4;$ 679;12/11/2023;Electrónica;Argentina;Buenos Aires;Tarjeta de crédito;21;Masculino;2
+23;Smartphone;8;$ 252;30/06/2024;Electrónica;Perú;Lima;PayPal;54;Masculino;4
+24;Reloj;6;$ 224;29/03/2024;Accesorios;Colombia;Bogotá;PayPal;32;Masculino;1
+25;Audífonos;6;$ 174;03/10/2024;Accesorios;Chile;Santiago;PayPal;54;Masculino;5
+26;Laptop;9;$ 924;08/06/2024;Electrónica;Perú;Lima;Tarjeta de crédito;35;Masculino;1
+27;Audífonos;1;$ 301;16/04/2024;Accesorios;España;Madrid;Tarjeta de crédito;37;Masculino;2
+28;Televisor;9;$ 459;19/09/2024;Electrónica;España;Madrid;Efectivo;42;Femenino;1
+29;Laptop;4;$ 499;15/11/2023;Electrónica;Colombia;Bogotá;Efectivo;42;Femenino;3
+30;Cámara;7;$ 780;16/03/2024;Electrónica;México;Ciudad de México;Efectivo;53;Femenino;4
+31;Audífonos;4;$ 846;11/07/2024;Accesorios;Colombia;Bogotá;PayPal;68;Femenino;4
+32;Laptop;3;$ 148;20/04/2024;Electrónica;Argentina;Buenos Aires;PayPal;19;Femenino;3
+33;Smartphone;8;$ 433;20/06/2024;Electrónica;España;Madrid;PayPal;30;Femenino;4
+34;Audífonos;1;$ 844;02/07/2024;Accesorios;Perú;Lima;Tarjeta de crédito;38;Masculino;5
+35;Televisor;4;$ 820;22/01/2024;Electrónica;Perú;Lima;Efectivo;25;Femenino;4
+36;Audífonos;1;$ 111;15/07/2024;Accesorios;España;Madrid;Tarjeta de crédito;40;Masculino;4
+37;Audífonos;4;$ 165;01/04/2024;Accesorios;Chile;Santiago;PayPal;62;Masculino;2
+38;Laptop;7;$ 311;22/09/2024;Electrónica;Argentina;Buenos Aires;Efectivo;33;Femenino;1
+39;Smartphone;2;$ 85;28/02/2024;Electrónica;México;Ciudad de México;Tarjeta de crédito;50;Masculino;4
+40;Smartphone;3;$ 430;10/12/2023;Electrónica;Argentina;Buenos Aires;Efectivo;51;Masculino;2
+41;Smartphone;5;$ 117;31/12/2023;Electrónica;Argentina;Buenos Aires;Efectivo;31;Masculino;3
+42;Laptop;2;$ 573;22/12/2023;Electrónica;Argentina;Buenos Aires;Efectivo;19;Femenino;5
+43;Cámara;4;$ 254;31/08/2024;Electrónica;Argentina;Buenos Aires;PayPal;21;Femenino;3
+44;Reloj;3;$ 600;11/12/2023;Accesorios;México;Ciudad de México;PayPal;57;Masculino;5
+45;Audífonos;5;$ 126;15/11/2023;Accesorios;Argentina;Buenos Aires;Efectivo;54;Femenino;2
+46;Audífonos;8;$ 976;21/11/2023;Accesorios;México;Ciudad de México;PayPal;56;Femenino;3
+47;Cámara;5;$ 933;17/12/2023;Electrónica;Colombia;Bogotá;Tarjeta de crédito;45;Masculino;2
+48;Reloj;5;$ 398;31/10/2023;Accesorios;Perú;Lima;Tarjeta de crédito;52;Femenino;5
+49;Cámara;2;$ 250;15/04/2024;Electrónica;Argentina;Buenos Aires;Tarjeta de crédito;63;Masculino;4
+50;Laptop;3;$ 258;09/03/2024;Electrónica;Chile;Santiago;PayPal;56;Femenino;2
+51;Laptop;8;$ 489;07/02/2024;Electrónica;México;Ciudad de México;Efectivo;65;Femenino;1
+52;Reloj;3;$ 50;20/03/2024;Accesorios;Perú;Lima;Tarjeta de crédito;43;Masculino;4
+53;Televisor;4;$ 643;16/01/2024;Electrónica;Perú;Lima;Tarjeta de crédito;34;Masculino;4
+54;Televisor;8;$ 414;06/09/2024;Electrónica;México;Ciudad de México;PayPal;66;Masculino;1
+55;Laptop;7;$ 384;19/07/2024;Electrónica;Perú;Lima;PayPal;68;Femenino;3
+56;Reloj;7;$ 811;03/04/2024;Accesorios;Argentina;Buenos Aires;PayPal;27;Masculino;1
+57;Smartphone;3;$ 712;17/11/2023;Electrónica;Chile;Santiago;Efectivo;43;Femenino;4
+58;Reloj;4;$ 955;25/09/2024;Accesorios;Perú;Lima;Efectivo;18;Femenino;3
+59;Smartphone;7;$ 358;16/06/2024;Electrónica;Perú;Lima;PayPal;33;Femenino;3
+60;Cámara;1;$ 899;23/04/2024;Electrónica;Chile;Santiago;Tarjeta de crédito;34;Femenino;5
+61;Cámara;9;$ 772;25/12/2023;Electrónica;Argentina;Buenos Aires;PayPal;60;Masculino;1
+62;Laptop;1;$ 364;01/08/2024;Electrónica;Chile;Santiago;Tarjeta de crédito;54;Masculino;4
+63;Smartphone;8;$ 625;16/05/2024;Electrónica;México;Ciudad de México;PayPal;25;Masculino;2
+64;Smartphone;7;$ 296;12/02/2024;Electrónica;Perú;Lima;Efectivo;41;Masculino;5
+65;Smartphone;6;$ 876;02/10/2024;Electrónica;Argentina;Buenos Aires;Tarjeta de crédito;67;Femenino;2
+66;Smartphone;7;$ 121;09/07/2024;Electrónica;Argentina;Buenos Aires;Efectivo;58;Masculino;3
+67;Audífonos;6;$ 220;25/02/2024;Accesorios;Argentina;Buenos Aires;Tarjeta de crédito;56;Masculino;4
+68;Audífonos;3;$ 191;01/10/2024;Accesorios;Colombia;Bogotá;Tarjeta de crédito;63;Femenino;4
+69;Cámara;8;$ 409;15/06/2024;Electrónica;Argentina;Buenos Aires;PayPal;55;Masculino;1
+70;Audífonos;2;$ 748;03/11/2023;Accesorios;España;Madrid;Tarjeta de crédito;67;Masculino;4
+71;Laptop;3;$ 532;04/02/2024;Electrónica;España;Madrid;PayPal;55;Masculino;4
+72;Audífonos;3;$ 493;14/07/2024;Accesorios;México;Ciudad de México;Efectivo;22;Femenino;1
+73;Televisor;6;$ 11;03/12/2023;Electrónica;Colombia;Bogotá;PayPal;52;Masculino;1
+74;Reloj;7;$ 431;06/09/2024;Accesorios;Colombia;Bogotá;Efectivo;40;Masculino;4
+75;Smartphone;5;$ 73;18/12/2023;Electrónica;Chile;Santiago;Efectivo;67;Masculino;4
+76;Cámara;3;$ 216;30/11/2023;Electrónica;Argentina;Buenos Aires;PayPal;48;Femenino;5
+77;Reloj;3;$ 933;27/12/2023;Accesorios;España;Madrid;Tarjeta de crédito;51;Femenino;2
+78;Audífonos;2;$ 223;11/10/2023;Accesorios;Colombia;Bogotá;Efectivo;45;Masculino;5
+79;Reloj;1;$ 860;23/08/2024;Accesorios;España;Madrid;Tarjeta de crédito;25;Masculino;5
+80;Reloj;1;$ 805;07/12/2023;Accesorios;España;Madrid;Efectivo;31;Femenino;3
+81;Reloj;3;$ 168;21/03/2024;Accesorios;Argentina;Buenos Aires;Efectivo;43;Masculino;4
+82;Audífonos;9;$ 610;06/09/2024;Accesorios;España;Madrid;Efectivo;55;Masculino;5
+83;Reloj;4;$ 125;30/05/2024;Accesorios;México;Ciudad de México;PayPal;49;Femenino;4
+84;Reloj;1;$ 731;16/04/2024;Accesorios;México;Ciudad de México;PayPal;54;Masculino;5
+85;Reloj;9;$ 641;13/07/2024;Accesorios;Colombia;Bogotá;Efectivo;67;Masculino;3
+86;Laptop;9;$ 814;03/08/2024;Electrónica;Colombia;Bogotá;PayPal;65;Masculino;4
+87;Reloj;2;$ 485;09/11/2023;Accesorios;Chile;Santiago;PayPal;57;Masculino;2
+88;Audífonos;1;$ 916;16/03/2024;Accesorios;España;Madrid;Efectivo;26;Femenino;3
+89;Cámara;6;$ 59;20/05/2024;Electrónica;Colombia;Bogotá;Efectivo;36;Masculino;1
+90;Televisor;9;$ 300;28/02/2024;Electrónica;Argentina;Buenos Aires;PayPal;38;Masculino;2
+91;Televisor;3;$ 718;20/02/2024;Electrónica;Colombia;Bogotá;PayPal;43;Femenino;5
+92;Televisor;4;$ 424;08/11/2023;Electrónica;México;Ciudad de México;Efectivo;57;Masculino;4
+93;Laptop;6;$ 181;18/10/2023;Electrónica;España;Madrid;PayPal;47;Femenino;4
+94;Smartphone;4;$ 116;21/04/2024;Electrónica;México;Ciudad de México;Efectivo;20;Masculino;2
+95;Televisor;9;$ 819;03/09/2024;Electrónica;Colombia;Bogotá;Tarjeta de crédito;58;Masculino;1
+96;Smartphone;7;$ 478;04/02/2024;Electrónica;Colombia;Bogotá;Efectivo;68;Masculino;4
+97;Audífonos;5;$ 883;23/10/2023;Accesorios;México;Ciudad de México;Efectivo;35;Femenino;1
+98;Laptop;7;$ 736;26/11/2023;Electrónica;Perú;Lima;Efectivo;58;Masculino;1
+99;Televisor;4;$ 416;13/09/2024;Electrónica;Chile;Santiago;Tarjeta de crédito;57;Femenino;3
+100;Laptop;7;$ 380;22/02/2024;Electrónica;Chile;Santiago;Efectivo;51;Masculino;2
+101;Smartphone;3;$ 520;22/11/2023;Electrónica;Colombia;Bogotá;Efectivo;21;Masculino;2
+102;Cámara;7;$ 890;12/12/2023;Electrónica;Chile;Santiago;Efectivo;44;Masculino;2
+103;Reloj;6;$ 740;07/10/2023;Accesorios;México;Ciudad de México;Tarjeta de crédito;65;Femenino;5
+104;Cámara;6;$ 15;15/10/2023;Electrónica;España;Madrid;Tarjeta de crédito;42;Masculino;2
+105;Laptop;5;$ 697;18/04/2024;Electrónica;Colombia;Bogotá;PayPal;67;Femenino;4
+106;Televisor;7;$ 920;28/01/2024;Electrónica;Argentina;Buenos Aires;Tarjeta de crédito;48;Masculino;4
+107;Audífonos;6;$ 713;06/05/2024;Accesorios;Perú;Lima;Efectivo;69;Femenino;2
+108;Cámara;2;$ 185;25/01/2024;Electrónica;Chile;Santiago;Efectivo;19;Masculino;4
+109;Cámara;4;$ 489;15/02/2024;Electrónica;Chile;Santiago;PayPal;60;Masculino;3
+110;Televisor;4;$ 149;01/12/2023;Electrónica;Argentina;Buenos Aires;PayPal;36;Femenino;5
+111;Laptop;9;$ 365;30/12/2023;Electrónica;Perú;Lima;Efectivo;25;Masculino;5
+112;Televisor;6;$ 938;04/06/2024;Electrónica;Argentina;Buenos Aires;PayPal;61;Femenino;1
+113;Smartphone;6;$ 924;11/11/2023;Electrónica;Perú;Lima;Tarjeta de crédito;23;Masculino;1
+114;Laptop;7;$ 290;24/08/2024;Electrónica;México;Ciudad de México;Efectivo;58;Masculino;5
+115;Cámara;1;$ 346;10/02/2024;Electrónica;Perú;Lima;Efectivo;55;Femenino;2
+116;Cámara;8;$ 604;23/11/2023;Electrónica;México;Ciudad de México;Tarjeta de crédito;37;Femenino;2
+117;Audífonos;6;$ 964;06/12/2023;Accesorios;Chile;Santiago;Efectivo;52;Masculino;3
+118;Cámara;2;$ 156;14/05/2024;Electrónica;Perú;Lima;Efectivo;39;Femenino;5
+119;Audífonos;6;$ 264;29/08/2024;Accesorios;España;Madrid;Tarjeta de crédito;54;Masculino;4
+120;Cámara;7;$ 875;02/07/2024;Electrónica;México;Ciudad de México;PayPal;42;Femenino;4
+121;Smartphone;7;$ 497;11/12/2023;Electrónica;Perú;Lima;Efectivo;48;Masculino;1
+122;Cámara;9;$ 900;24/01/2024;Electrónica;México;Ciudad de México;Tarjeta de crédito;19;Masculino;5
+123;Audífonos;8;$ 194;04/10/2024;Accesorios;Colombia;Bogotá;Tarjeta de crédito;18;Masculino;1
+124;Audífonos;6;$ 537;26/02/2024;Accesorios;Perú;Lima;PayPal;42;Femenino;3
+125;Audífonos;4;$ 333;29/07/2024;Accesorios;Colombia;Bogotá;PayPal;63;Femenino;1
+126;Cámara;3;$ 323;22/12/2023;Electrónica;México;Ciudad de México;Efectivo;65;Femenino;3
+127;Audífonos;4;$ 452;24/12/2023;Accesorios;España;Madrid;Tarjeta de crédito;22;Femenino;5
+128;Reloj;3;$ 439;18/09/2024;Accesorios;Chile;Santiago;Efectivo;18;Femenino;3
+129;Smartphone;6;$ 364;27/12/2023;Electrónica;Argentina;Buenos Aires;Tarjeta de crédito;54;Masculino;1
+130;Cámara;5;$ 916;16/01/2024;Electrónica;Perú;Lima;Tarjeta de crédito;68;Femenino;5
+131;Audífonos;2;$ 734;14/02/2024;Accesorios;México;Ciudad de México;Efectivo;38;Femenino;1
+132;Smartphone;6;$ 730;11/01/2024;Electrónica;España;Madrid;Efectivo;22;Femenino;4
+133;Cámara;9;$ 297;02/11/2023;Electrónica;España;Madrid;Tarjeta de crédito;23;Femenino;2
+134;Smartphone;4;$ 582;28/11/2023;Electrónica;España;Madrid;Tarjeta de crédito;32;Femenino;3
+135;Reloj;6;$ 781;10/12/2023;Accesorios;México;Ciudad de México;Efectivo;40;Femenino;3
+136;Cámara;9;$ 798;16/11/2023;Electrónica;México;Ciudad de México;PayPal;33;Femenino;2
+137;Audífonos;5;$ 351;14/09/2024;Accesorios;Perú;Lima;Tarjeta de crédito;37;Femenino;3
+138;Laptop;2;$ 773;07/06/2024;Electrónica;Perú;Lima;PayPal;30;Femenino;3
+139;Audífonos;8;$ 739;08/01/2024;Accesorios;España;Madrid;Efectivo;57;Femenino;4
+140;Cámara;9;$ 150;08/01/2024;Electrónica;España;Madrid;PayPal;50;Femenino;5
+141;Audífonos;2;$ 867;16/07/2024;Accesorios;Perú;Lima;PayPal;48;Masculino;3
+142;Laptop;3;$ 447;17/02/2024;Electrónica;México;Ciudad de México;Tarjeta de crédito;38;Masculino;4
+143;Laptop;2;$ 492;22/08/2024;Electrónica;Chile;Santiago;Tarjeta de crédito;38;Femenino;3
+144;Laptop;2;$ 454;02/05/2024;Electrónica;México;Ciudad de México;PayPal;23;Femenino;5
+145;Audífonos;8;$ 572;12/10/2023;Accesorios;Colombia;Bogotá;Tarjeta de crédito;28;Masculino;4
+146;Cámara;6;$ 625;03/03/2024;Electrónica;España;Madrid;PayPal;42;Femenino;3
+147;Audífonos;1;$ 503;11/09/2024;Accesorios;Chile;Santiago;PayPal;29;Femenino;4
+148;Laptop;5;$ 868;19/12/2023;Electrónica;Argentina;Buenos Aires;Efectivo;39;Masculino;2
+149;Reloj;2;$ 631;21/12/2023;Accesorios;México;Ciudad de México;PayPal;24;Masculino;3
+150;Laptop;2;$ 407;18/11/2023;Electrónica;España;Madrid;Efectivo;19;Masculino;1
+151;Televisor;7;$ 423;31/12/2023;Electrónica;México;Ciudad de México;Tarjeta de crédito;31;Femenino;5
+152;Laptop;7;$ 813;01/01/2024;Electrónica;Argentina;Buenos Aires;PayPal;33;Femenino;3
+153;Televisor;1;$ 355;28/07/2024;Electrónica;México;Ciudad de México;Efectivo;65;Masculino;3
+154;Cámara;3;$ 219;08/12/2023;Electrónica;Chile;Santiago;Efectivo;61;Femenino;1
+155;Audífonos;4;$ 69;29/12/2023;Accesorios;Argentina;Buenos Aires;Efectivo;39;Femenino;4
+156;Cámara;8;$ 877;28/10/2023;Electrónica;Colombia;Bogotá;PayPal;21;Femenino;5
+157;Audífonos;3;$ 919;05/01/2024;Accesorios;Colombia;Bogotá;Tarjeta de crédito;47;Femenino;1
+158;Televisor;5;$ 129;21/05/2024;Electrónica;España;Madrid;PayPal;27;Femenino;5
+159;Laptop;1;$ 341;17/01/2024;Electrónica;Colombia;Bogotá;Tarjeta de crédito;42;Masculino;3
+160;Laptop;7;$ 184;22/02/2024;Electrónica;México;Ciudad de México;Efectivo;54;Masculino;5
+161;Laptop;3;$ 125;28/10/2023;Electrónica;Chile;Santiago;PayPal;67;Masculino;4
+162;Audífonos;5;$ 901;28/01/2024;Accesorios;Colombia;Bogotá;Efectivo;38;Masculino;2
+163;Laptop;8;$ 66;14/07/2024;Electrónica;España;Madrid;Tarjeta de crédito;55;Masculino;5
+164;Cámara;4;$ 981;12/01/2024;Electrónica;México;Ciudad de México;Efectivo;64;Masculino;2
+165;Cámara;1;$ 105;03/08/2024;Electrónica;España;Madrid;Efectivo;37;Masculino;4
+166;Laptop;6;$ 865;05/09/2024;Electrónica;España;Madrid;Tarjeta de crédito;58;Masculino;1
+167;Reloj;5;$ 571;18/05/2024;Accesorios;Chile;Santiago;Tarjeta de crédito;21;Masculino;5
+168;Audífonos;1;$ 374;29/04/2024;Accesorios;Perú;Lima;Efectivo;55;Femenino;5
+169;Reloj;3;$ 349;12/11/2023;Accesorios;Chile;Santiago;Tarjeta de crédito;21;Masculino;5
+170;Televisor;4;$ 760;07/08/2024;Electrónica;España;Madrid;PayPal;38;Femenino;5
+171;Laptop;2;$ 321;23/08/2024;Electrónica;España;Madrid;PayPal;56;Femenino;2
+172;Reloj;8;$ 661;12/11/2023;Accesorios;Colombia;Bogotá;Tarjeta de crédito;48;Masculino;4
+173;Audífonos;2;$ 522;04/05/2024;Accesorios;Colombia;Bogotá;PayPal;51;Masculino;2
+174;Televisor;4;$ 490;29/11/2023;Electrónica;Argentina;Buenos Aires;Efectivo;43;Masculino;3
+175;Audífonos;5;$ 902;08/06/2024;Accesorios;Perú;Lima;Tarjeta de crédito;59;Masculino;3
+176;Reloj;2;$ 559;31/10/2023;Accesorios;Chile;Santiago;PayPal;62;Femenino;1
+177;Televisor;8;$ 829;09/09/2024;Electrónica;Perú;Lima;Tarjeta de crédito;40;Masculino;1
+178;Smartphone;5;$ 728;14/04/2024;Electrónica;Colombia;Bogotá;PayPal;55;Femenino;5
+179;Televisor;1;$ 48;26/05/2024;Electrónica;España;Madrid;Tarjeta de crédito;20;Masculino;3
+180;Audífonos;3;$ 775;31/10/2023;Accesorios;Colombia;Bogotá;Efectivo;45;Masculino;2
+181;Laptop;8;$ 225;29/01/2024;Electrónica;Argentina;Buenos Aires;Efectivo;64;Femenino;4
+182;Laptop;5;$ 904;28/08/2024;Electrónica;Colombia;Bogotá;Tarjeta de crédito;69;Masculino;3
+183;Laptop;1;$ 52;26/04/2024;Electrónica;España;Madrid;PayPal;55;Femenino;3
+184;Televisor;3;$ 340;06/10/2023;Electrónica;Colombia;Bogotá;PayPal;46;Femenino;2
+185;Televisor;7;$ 109;01/03/2024;Electrónica;Colombia;Bogotá;Tarjeta de crédito;53;Femenino;3
+186;Smartphone;3;$ 481;27/09/2024;Electrónica;Chile;Santiago;PayPal;65;Femenino;2
+187;Laptop;5;$ 822;22/04/2024;Electrónica;Chile;Santiago;PayPal;51;Femenino;2
+188;Reloj;6;$ 305;12/07/2024;Accesorios;Argentina;Buenos Aires;Tarjeta de crédito;43;Femenino;2
+189;Smartphone;5;$ 159;16/10/2023;Electrónica;Argentina;Buenos Aires;PayPal;28;Femenino;2
+190;Televisor;5;$ 337;06/01/2024;Electrónica;Colombia;Bogotá;Efectivo;57;Femenino;3
+191;Televisor;9;$ 816;14/04/2024;Electrónica;Chile;Santiago;PayPal;26;Masculino;3
+192;Audífonos;2;$ 149;20/04/2024;Accesorios;Chile;Santiago;Tarjeta de crédito;35;Femenino;4
+193;Smartphone;6;$ 235;01/09/2024;Electrónica;Colombia;Bogotá;Tarjeta de crédito;43;Femenino;1
+194;Laptop;8;$ 78;17/10/2023;Electrónica;Perú;Lima;Tarjeta de crédito;25;Masculino;4
+195;Laptop;1;$ 709;18/11/2023;Electrónica;Chile;Santiago;Efectivo;69;Femenino;2
+196;Reloj;2;$ 401;17/03/2024;Accesorios;México;Ciudad de México;PayPal;47;Femenino;5
+197;Audífonos;4;$ 318;09/07/2024;Accesorios;España;Madrid;Tarjeta de crédito;57;Femenino;4
+198;Audífonos;3;$ 721;15/11/2023;Accesorios;Perú;Lima;Tarjeta de crédito;59;Femenino;5
+199;Smartphone;9;$ 343;29/12/2023;Electrónica;México;Ciudad de México;Tarjeta de crédito;38;Femenino;5
+200;Televisor;3;$ 730;28/09/2024;Electrónica;México;Ciudad de México;PayPal;51;Masculino;3
+201;Televisor;5;$ 817;17/10/2023;Electrónica;México;Ciudad de México;PayPal;67;Femenino;2
+202;Laptop;9;$ 225;23/01/2024;Electrónica;Chile;Santiago;PayPal;28;Masculino;1
+203;Laptop;3;$ 974;05/08/2024;Electrónica;Colombia;Bogotá;PayPal;30;Femenino;1
+204;Smartphone;9;$ 171;02/03/2024;Electrónica;Perú;Lima;PayPal;65;Masculino;1
+205;Cámara;8;$ 298;04/08/2024;Electrónica;Perú;Lima;PayPal;20;Femenino;1
+206;Laptop;9;$ 188;31/03/2024;Electrónica;Perú;Lima;Tarjeta de crédito;50;Masculino;1
+207;Audífonos;3;$ 352;05/06/2024;Accesorios;Argentina;Buenos Aires;Efectivo;42;Masculino;5
+208;Televisor;4;$ 485;24/12/2023;Electrónica;España;Madrid;Tarjeta de crédito;23;Masculino;5
+209;Smartphone;4;$ 527;08/02/2024;Electrónica;España;Madrid;Efectivo;37;Femenino;5
+210;Smartphone;7;$ 855;06/09/2024;Electrónica;México;Ciudad de México;Tarjeta de crédito;18;Masculino;2
+211;Reloj;1;$ 891;05/05/2024;Accesorios;Argentina;Buenos Aires;Tarjeta de crédito;35;Masculino;4
+212;Laptop;4;$ 228;08/05/2024;Electrónica;Colombia;Bogotá;Efectivo;41;Masculino;3
+213;Televisor;7;$ 627;16/01/2024;Electrónica;Argentina;Buenos Aires;Tarjeta de crédito;64;Femenino;5
+214;Laptop;4;$ 120;12/07/2024;Electrónica;Argentina;Buenos Aires;Efectivo;38;Masculino;2
+215;Audífonos;7;$ 464;01/01/2024;Accesorios;España;Madrid;Efectivo;54;Masculino;2
+216;Cámara;4;$ 329;07/06/2024;Electrónica;Chile;Santiago;Efectivo;54;Femenino;3
+217;Audífonos;3;$ 323;26/12/2023;Accesorios;México;Ciudad de México;Tarjeta de crédito;30;Masculino;1
+218;Cámara;3;$ 488;30/11/2023;Electrónica;Chile;Santiago;PayPal;62;Femenino;2
+219;Reloj;3;$ 733;16/12/2023;Accesorios;Perú;Lima;Tarjeta de crédito;54;Femenino;4
+220;Audífonos;7;$ 78;27/09/2024;Accesorios;España;Madrid;Tarjeta de crédito;33;Femenino;4
+221;Televisor;5;$ 880;03/11/2023;Electrónica;Argentina;Buenos Aires;Efectivo;55;Masculino;4
+222;Televisor;7;$ 737;18/05/2024;Electrónica;México;Ciudad de México;Efectivo;42;Femenino;2
+223;Audífonos;1;$ 185;29/11/2023;Accesorios;Colombia;Bogotá;PayPal;63;Masculino;2
+224;Laptop;5;$ 940;29/09/2024;Electrónica;Colombia;Bogotá;Efectivo;38;Femenino;2
+225;Audífonos;3;$ 511;05/01/2024;Accesorios;Argentina;Buenos Aires;PayPal;25;Masculino;2
+226;Laptop;2;$ 1.000;28/01/2024;Electrónica;Chile;Santiago;Tarjeta de crédito;64;Femenino;4
+227;Reloj;7;$ 205;18/07/2024;Accesorios;Chile;Santiago;Efectivo;41;Masculino;3
+228;Cámara;2;$ 540;05/11/2023;Electrónica;México;Ciudad de México;Tarjeta de crédito;38;Masculino;3
+229;Audífonos;8;$ 297;15/07/2024;Accesorios;Perú;Lima;PayPal;23;Femenino;2
+230;Televisor;6;$ 311;14/02/2024;Electrónica;España;Madrid;PayPal;25;Masculino;4
+231;Televisor;7;$ 595;16/06/2024;Electrónica;Chile;Santiago;PayPal;54;Masculino;3
+232;Reloj;2;$ 923;18/06/2024;Accesorios;Colombia;Bogotá;Tarjeta de crédito;65;Masculino;4
+233;Laptop;7;$ 807;04/09/2024;Electrónica;Colombia;Bogotá;PayPal;27;Femenino;2
+234;Cámara;7;$ 727;16/10/2023;Electrónica;Colombia;Bogotá;PayPal;23;Femenino;2
+235;Audífonos;7;$ 564;19/01/2024;Accesorios;Perú;Lima;Tarjeta de crédito;43;Femenino;5
+236;Audífonos;7;$ 923;29/05/2024;Accesorios;Chile;Santiago;Tarjeta de crédito;51;Masculino;2
+237;Smartphone;3;$ 497;21/10/2023;Electrónica;Argentina;Buenos Aires;PayPal;38;Femenino;4
+238;Televisor;6;$ 875;09/12/2023;Electrónica;Chile;Santiago;Efectivo;18;Femenino;2
+239;Audífonos;3;$ 836;15/04/2024;Accesorios;Chile;Santiago;PayPal;51;Femenino;1
+240;Reloj;3;$ 222;11/02/2024;Accesorios;México;Ciudad de México;Efectivo;37;Femenino;5
+241;Televisor;4;$ 774;11/06/2024;Electrónica;España;Madrid;Tarjeta de crédito;27;Femenino;2
+242;Televisor;3;$ 22;24/01/2024;Electrónica;Perú;Lima;Tarjeta de crédito;20;Masculino;2
+243;Audífonos;4;$ 330;04/10/2024;Accesorios;Chile;Santiago;Tarjeta de crédito;34;Femenino;5
+244;Audífonos;9;$ 237;05/01/2024;Accesorios;Chile;Santiago;Tarjeta de crédito;41;Femenino;1
+245;Smartphone;6;$ 512;05/07/2024;Electrónica;España;Madrid;Tarjeta de crédito;68;Masculino;5
+246;Smartphone;5;$ 739;19/02/2024;Electrónica;Colombia;Bogotá;Tarjeta de crédito;43;Femenino;4
+247;Smartphone;6;$ 107;31/03/2024;Electrónica;Perú;Lima;Tarjeta de crédito;60;Masculino;4
+248;Audífonos;2;$ 520;13/09/2024;Accesorios;España;Madrid;Efectivo;34;Masculino;1
+249;Cámara;6;$ 939;02/08/2024;Electrónica;Chile;Santiago;PayPal;35;Femenino;2
+250;Cámara;9;$ 236;25/02/2024;Electrónica;Argentina;Buenos Aires;PayPal;58;Femenino;5
+251;Reloj;3;$ 680;25/06/2024;Accesorios;México;Ciudad de México;Tarjeta de crédito;35;Masculino;3
+252;Audífonos;6;$ 597;12/05/2024;Accesorios;México;Ciudad de México;Tarjeta de crédito;67;Masculino;1
+253;Smartphone;7;$ 20;27/08/2024;Electrónica;España;Madrid;Tarjeta de crédito;55;Femenino;5
+254;Cámara;5;$ 481;11/03/2024;Electrónica;España;Madrid;PayPal;59;Masculino;5
+255;Audífonos;1;$ 712;14/05/2024;Accesorios;Colombia;Bogotá;Efectivo;56;Masculino;1
+256;Televisor;9;$ 54;04/03/2024;Electrónica;México;Ciudad de México;Efectivo;30;Masculino;3
+257;Televisor;6;$ 881;10/02/2024;Electrónica;España;Madrid;Efectivo;24;Masculino;4
+258;Televisor;6;$ 525;17/09/2024;Electrónica;Perú;Lima;PayPal;65;Masculino;4
+259;Smartphone;6;$ 40;11/02/2024;Electrónica;Chile;Santiago;Efectivo;42;Masculino;2
+260;Reloj;2;$ 232;12/06/2024;Accesorios;Chile;Santiago;Tarjeta de crédito;51;Masculino;2
+261;Cámara;1;$ 954;12/04/2024;Electrónica;Argentina;Buenos Aires;Tarjeta de crédito;32;Masculino;4
+262;Cámara;1;$ 587;24/03/2024;Electrónica;Perú;Lima;PayPal;23;Masculino;3
+263;Laptop;1;$ 116;11/01/2024;Electrónica;Argentina;Buenos Aires;Efectivo;27;Femenino;1
+264;Smartphone;1;$ 295;13/12/2023;Electrónica;Perú;Lima;PayPal;55;Femenino;5
+265;Televisor;1;$ 462;18/08/2024;Electrónica;España;Madrid;PayPal;56;Masculino;2
+266;Laptop;8;$ 31;18/01/2024;Electrónica;Colombia;Bogotá;Efectivo;29;Masculino;4
+267;Reloj;7;$ 418;24/01/2024;Accesorios;Colombia;Bogotá;Efectivo;43;Femenino;5
+268;Laptop;4;$ 495;23/05/2024;Electrónica;Colombia;Bogotá;Tarjeta de crédito;34;Femenino;1
+269;Audífonos;6;$ 251;11/11/2023;Accesorios;Perú;Lima;Efectivo;37;Masculino;1
+270;Cámara;5;$ 593;18/03/2024;Electrónica;Colombia;Bogotá;Efectivo;41;Femenino;2
+271;Televisor;4;$ 756;18/02/2024;Electrónica;México;Ciudad de México;Tarjeta de crédito;68;Masculino;2
+272;Televisor;5;$ 243;16/09/2024;Electrónica;Perú;Lima;Tarjeta de crédito;66;Masculino;3
+273;Laptop;6;$ 624;02/10/2024;Electrónica;Perú;Lima;Tarjeta de crédito;27;Masculino;1
+274;Laptop;2;$ 643;21/03/2024;Electrónica;Colombia;Bogotá;Tarjeta de crédito;60;Masculino;4
+275;Televisor;4;$ 949;26/02/2024;Electrónica;Argentina;Buenos Aires;Efectivo;59;Femenino;1
+276;Smartphone;7;$ 780;18/02/2024;Electrónica;Perú;Lima;PayPal;59;Masculino;1
+277;Smartphone;8;$ 850;26/06/2024;Electrónica;Argentina;Buenos Aires;PayPal;57;Masculino;3
+278;Laptop;5;$ 496;08/10/2023;Electrónica;Perú;Lima;PayPal;44;Femenino;1
+279;Audífonos;1;$ 194;30/04/2024;Accesorios;México;Ciudad de México;Tarjeta de crédito;60;Masculino;4
+280;Laptop;1;$ 996;02/05/2024;Electrónica;España;Madrid;Efectivo;29;Masculino;3
+281;Audífonos;8;$ 138;12/05/2024;Accesorios;Chile;Santiago;PayPal;25;Masculino;1
+282;Laptop;4;$ 477;04/12/2023;Electrónica;Argentina;Buenos Aires;Efectivo;45;Masculino;2
+283;Reloj;4;$ 77;11/11/2023;Accesorios;Argentina;Buenos Aires;Efectivo;50;Femenino;5
+284;Reloj;1;$ 944;26/10/2023;Accesorios;Perú;Lima;Tarjeta de crédito;48;Masculino;1
+285;Laptop;1;$ 965;01/10/2024;Electrónica;México;Ciudad de México;Tarjeta de crédito;40;Masculino;4
+286;Smartphone;5;$ 722;14/06/2024;Electrónica;Argentina;Buenos Aires;Efectivo;47;Femenino;4
+287;Audífonos;5;$ 356;23/09/2024;Accesorios;Chile;Santiago;Efectivo;50;Masculino;2
+288;Reloj;6;$ 262;26/11/2023;Accesorios;México;Ciudad de México;Efectivo;20;Masculino;1
+289;Audífonos;9;$ 273;14/05/2024;Accesorios;Colombia;Bogotá;Efectivo;40;Masculino;1
+290;Cámara;9;$ 136;26/05/2024;Electrónica;Colombia;Bogotá;Efectivo;65;Femenino;1
+291;Televisor;1;$ 531;30/04/2024;Electrónica;Colombia;Bogotá;Efectivo;58;Femenino;4
+292;Smartphone;2;$ 150;29/07/2024;Electrónica;Chile;Santiago;Tarjeta de crédito;65;Femenino;3
+293;Smartphone;6;$ 324;09/08/2024;Electrónica;España;Madrid;Efectivo;42;Masculino;3
+294;Cámara;7;$ 630;15/03/2024;Electrónica;Argentina;Buenos Aires;Efectivo;69;Femenino;2
+295;Smartphone;2;$ 730;17/07/2024;Electrónica;Chile;Santiago;PayPal;32;Femenino;4
+296;Televisor;5;$ 34;08/12/2023;Electrónica;España;Madrid;PayPal;20;Masculino;5
+297;Reloj;1;$ 436;06/07/2024;Accesorios;México;Ciudad de México;PayPal;21;Femenino;2
+298;Televisor;5;$ 656;17/07/2024;Electrónica;Chile;Santiago;Tarjeta de crédito;51;Masculino;3
+299;Cámara;8;$ 855;22/02/2024;Electrónica;México;Ciudad de México;Efectivo;60;Masculino;5
+300;Televisor;8;$ 481;23/09/2024;Electrónica;España;Madrid;Tarjeta de crédito;54;Masculino;2
+301;Televisor;8;$ 970;24/05/2024;Electrónica;Chile;Santiago;Efectivo;18;Masculino;2
+302;Reloj;7;$ 273;01/04/2024;Accesorios;Argentina;Buenos Aires;Tarjeta de crédito;42;Masculino;4
+303;Reloj;3;$ 23;28/07/2024;Accesorios;España;Madrid;Tarjeta de crédito;68;Femenino;1
+304;Televisor;7;$ 489;24/11/2023;Electrónica;Argentina;Buenos Aires;Tarjeta de crédito;56;Masculino;3
+305;Televisor;1;$ 264;02/09/2024;Electrónica;México;Ciudad de México;Tarjeta de crédito;30;Masculino;3
+306;Cámara;3;$ 825;16/12/2023;Electrónica;Argentina;Buenos Aires;PayPal;33;Masculino;1
+307;Audífonos;8;$ 240;16/04/2024;Accesorios;Chile;Santiago;Tarjeta de crédito;44;Femenino;5
+308;Televisor;8;$ 318;01/06/2024;Electrónica;Chile;Santiago;Tarjeta de crédito;41;Femenino;5
+309;Audífonos;3;$ 793;23/11/2023;Accesorios;Colombia;Bogotá;Efectivo;47;Femenino;5
+310;Smartphone;7;$ 718;20/08/2024;Electrónica;Perú;Lima;Efectivo;34;Femenino;1
+311;Cámara;2;$ 562;24/12/2023;Electrónica;Argentina;Buenos Aires;PayPal;36;Masculino;4
+312;Reloj;4;$ 708;28/01/2024;Accesorios;Colombia;Bogotá;Tarjeta de crédito;63;Masculino;4
+313;Audífonos;8;$ 424;02/05/2024;Accesorios;España;Madrid;Efectivo;51;Masculino;2
+314;Audífonos;1;$ 15;16/02/2024;Accesorios;México;Ciudad de México;Tarjeta de crédito;21;Femenino;3
+315;Smartphone;6;$ 21;26/12/2023;Electrónica;España;Madrid;Tarjeta de crédito;56;Masculino;1
+316;Smartphone;5;$ 516;05/09/2024;Electrónica;Perú;Lima;Tarjeta de crédito;25;Masculino;4
+317;Televisor;6;$ 92;31/05/2024;Electrónica;México;Ciudad de México;Efectivo;38;Masculino;3
+318;Televisor;6;$ 61;24/07/2024;Electrónica;Perú;Lima;Efectivo;66;Femenino;5
+319;Smartphone;4;$ 966;21/07/2024;Electrónica;Argentina;Buenos Aires;Tarjeta de crédito;42;Femenino;1
+320;Smartphone;9;$ 860;29/06/2024;Electrónica;Chile;Santiago;Tarjeta de crédito;20;Masculino;3
+321;Cámara;1;$ 161;12/03/2024;Electrónica;Argentina;Buenos Aires;Tarjeta de crédito;28;Femenino;4
+322;Laptop;2;$ 11;27/08/2024;Electrónica;México;Ciudad de México;Efectivo;69;Femenino;5
+323;Audífonos;6;$ 942;11/01/2024;Accesorios;Colombia;Bogotá;Tarjeta de crédito;52;Masculino;2
+324;Smartphone;5;$ 286;01/02/2024;Electrónica;México;Ciudad de México;PayPal;42;Femenino;2
+325;Reloj;2;$ 194;25/10/2023;Accesorios;Colombia;Bogotá;Tarjeta de crédito;18;Masculino;2
+326;Audífonos;6;$ 695;02/09/2024;Accesorios;España;Madrid;PayPal;24;Femenino;4
+327;Smartphone;1;$ 118;09/04/2024;Electrónica;Chile;Santiago;Efectivo;31;Femenino;1
+328;Smartphone;7;$ 272;25/08/2024;Electrónica;España;Madrid;Tarjeta de crédito;56;Femenino;3
+329;Cámara;9;$ 975;20/03/2024;Electrónica;Argentina;Buenos Aires;Efectivo;43;Masculino;4
+330;Laptop;9;$ 643;23/12/2023;Electrónica;Perú;Lima;PayPal;45;Femenino;3
+331;Laptop;7;$ 525;07/05/2024;Electrónica;Colombia;Bogotá;Efectivo;65;Masculino;4
+332;Cámara;4;$ 404;03/06/2024;Electrónica;Colombia;Bogotá;Efectivo;23;Masculino;5
+333;Reloj;5;$ 777;21/07/2024;Accesorios;España;Madrid;Efectivo;63;Femenino;4
+334;Laptop;5;$ 150;18/12/2023;Electrónica;Chile;Santiago;Tarjeta de crédito;59;Femenino;2
+335;Reloj;4;$ 968;02/08/2024;Accesorios;Chile;Santiago;Efectivo;41;Masculino;1
+336;Audífonos;7;$ 863;18/01/2024;Accesorios;España;Madrid;PayPal;69;Femenino;3
+337;Audífonos;6;$ 621;10/04/2024;Accesorios;Chile;Santiago;Tarjeta de crédito;42;Masculino;5
+338;Laptop;9;$ 52;30/04/2024;Electrónica;Argentina;Buenos Aires;PayPal;31;Masculino;2
+339;Laptop;2;$ 704;27/03/2024;Electrónica;Perú;Lima;PayPal;39;Masculino;5
+340;Audífonos;4;$ 914;22/11/2023;Accesorios;México;Ciudad de México;Tarjeta de crédito;31;Femenino;3
+341;Televisor;9;$ 529;05/07/2024;Electrónica;Colombia;Bogotá;Efectivo;20;Femenino;4
+342;Audífonos;2;$ 361;15/06/2024;Accesorios;Perú;Lima;Efectivo;59;Femenino;1
+343;Laptop;6;$ 129;07/03/2024;Electrónica;Colombia;Bogotá;Efectivo;19;Femenino;2
+344;Audífonos;9;$ 757;10/10/2023;Accesorios;Colombia;Bogotá;Efectivo;63;Femenino;1
+345;Laptop;1;$ 886;06/07/2024;Electrónica;México;Ciudad de México;Efectivo;18;Masculino;3
+346;Televisor;4;$ 109;08/09/2024;Electrónica;Argentina;Buenos Aires;PayPal;32;Masculino;5
+347;Cámara;8;$ 761;23/07/2024;Electrónica;España;Madrid;PayPal;54;Femenino;1
+348;Smartphone;2;$ 27;24/02/2024;Electrónica;Chile;Santiago;Tarjeta de crédito;25;Masculino;5
+349;Laptop;8;$ 967;20/10/2023;Electrónica;Chile;Santiago;Efectivo;66;Masculino;1
+350;Reloj;9;$ 619;05/01/2024;Accesorios;México;Ciudad de México;Efectivo;27;Masculino;3
+351;Laptop;1;$ 557;19/03/2024;Electrónica;Colombia;Bogotá;Efectivo;62;Masculino;5
+352;Audífonos;8;$ 303;27/11/2023;Accesorios;Chile;Santiago;PayPal;67;Femenino;1
+353;Reloj;6;$ 930;18/12/2023;Accesorios;España;Madrid;Tarjeta de crédito;22;Femenino;1
+354;Reloj;7;$ 273;17/03/2024;Accesorios;Chile;Santiago;Efectivo;34;Femenino;3
+355;Smartphone;9;$ 830;27/02/2024;Electrónica;Colombia;Bogotá;Tarjeta de crédito;34;Masculino;5
+356;Laptop;8;$ 985;06/12/2023;Electrónica;Perú;Lima;PayPal;34;Femenino;1
+357;Cámara;6;$ 786;17/08/2024;Electrónica;España;Madrid;Efectivo;21;Femenino;2
+358;Reloj;2;$ 524;09/06/2024;Accesorios;Colombia;Bogotá;PayPal;58;Masculino;3
+359;Reloj;1;$ 75;29/07/2024;Accesorios;Colombia;Bogotá;Efectivo;20;Masculino;1
+360;Cámara;1;$ 478;03/06/2024;Electrónica;México;Ciudad de México;Tarjeta de crédito;50;Masculino;3
+361;Reloj;6;$ 444;19/03/2024;Accesorios;Colombia;Bogotá;Efectivo;24;Femenino;4
+362;Audífonos;7;$ 211;21/11/2023;Accesorios;España;Madrid;Efectivo;39;Masculino;1
+363;Cámara;4;$ 429;16/12/2023;Electrónica;México;Ciudad de México;PayPal;46;Masculino;2
+364;Audífonos;7;$ 364;29/09/2024;Accesorios;México;Ciudad de México;Tarjeta de crédito;40;Femenino;4
+365;Laptop;2;$ 172;29/06/2024;Electrónica;España;Madrid;Tarjeta de crédito;45;Masculino;3
+366;Televisor;8;$ 447;10/08/2024;Electrónica;México;Ciudad de México;Efectivo;67;Masculino;5
+367;Televisor;8;$ 270;27/08/2024;Electrónica;España;Madrid;PayPal;22;Femenino;5
+368;Televisor;1;$ 527;16/08/2024;Electrónica;Chile;Santiago;Efectivo;22;Masculino;3
+369;Laptop;8;$ 45;14/01/2024;Electrónica;México;Ciudad de México;PayPal;49;Masculino;5
+370;Laptop;7;$ 907;04/06/2024;Electrónica;Chile;Santiago;Efectivo;20;Femenino;5
+371;Televisor;1;$ 818;25/03/2024;Electrónica;México;Ciudad de México;Efectivo;43;Masculino;2
+372;Audífonos;5;$ 557;17/11/2023;Accesorios;Colombia;Bogotá;PayPal;48;Femenino;4
+373;Reloj;3;$ 853;03/08/2024;Accesorios;Perú;Lima;Efectivo;29;Masculino;1
+374;Reloj;8;$ 963;18/09/2024;Accesorios;España;Madrid;Tarjeta de crédito;28;Femenino;4
+375;Televisor;6;$ 119;29/03/2024;Electrónica;Colombia;Bogotá;Tarjeta de crédito;20;Masculino;3
+376;Cámara;3;$ 635;24/03/2024;Electrónica;Chile;Santiago;PayPal;29;Masculino;2
+377;Cámara;9;$ 998;11/01/2024;Electrónica;España;Madrid;PayPal;30;Masculino;3
+378;Reloj;6;$ 988;14/09/2024;Accesorios;España;Madrid;Efectivo;38;Femenino;4
+379;Smartphone;7;$ 607;26/06/2024;Electrónica;Perú;Lima;Efectivo;27;Masculino;2
+380;Audífonos;7;$ 137;08/01/2024;Accesorios;Chile;Santiago;Tarjeta de crédito;53;Masculino;2
+381;Audífonos;5;$ 587;06/06/2024;Accesorios;España;Madrid;PayPal;69;Femenino;4
+382;Audífonos;2;$ 12;13/08/2024;Accesorios;España;Madrid;PayPal;24;Femenino;1
+383;Smartphone;6;$ 207;30/04/2024;Electrónica;México;Ciudad de México;Tarjeta de crédito;49;Masculino;4
+384;Cámara;5;$ 957;08/01/2024;Electrónica;Argentina;Buenos Aires;PayPal;45;Masculino;2
+385;Televisor;6;$ 337;12/06/2024;Electrónica;Colombia;Bogotá;Efectivo;28;Femenino;2
+386;Cámara;6;$ 642;09/02/2024;Electrónica;Argentina;Buenos Aires;PayPal;66;Masculino;1
+387;Audífonos;7;$ 288;02/12/2023;Accesorios;España;Madrid;PayPal;26;Femenino;1
+388;Televisor;4;$ 948;02/09/2024;Electrónica;Perú;Lima;Efectivo;43;Femenino;3
+389;Cámara;9;$ 731;29/01/2024;Electrónica;Perú;Lima;Efectivo;55;Masculino;3
+390;Audífonos;2;$ 336;23/10/2023;Accesorios;Argentina;Buenos Aires;Tarjeta de crédito;33;Femenino;2
+391;Reloj;5;$ 794;16/01/2024;Accesorios;Perú;Lima;Tarjeta de crédito;44;Masculino;3
+392;Reloj;3;$ 117;17/03/2024;Accesorios;Perú;Lima;Tarjeta de crédito;23;Masculino;1
+393;Cámara;8;$ 398;06/06/2024;Electrónica;México;Ciudad de México;PayPal;36;Masculino;3
+394;Televisor;5;$ 229;31/07/2024;Electrónica;Chile;Santiago;Efectivo;18;Masculino;3
+395;Smartphone;2;$ 687;21/07/2024;Electrónica;Chile;Santiago;PayPal;54;Masculino;2
+396;Cámara;9;$ 111;27/10/2023;Electrónica;Argentina;Buenos Aires;Efectivo;50;Masculino;4
+397;Televisor;3;$ 403;20/03/2024;Electrónica;México;Ciudad de México;Efectivo;55;Femenino;4
+398;Laptop;4;$ 284;13/12/2023;Electrónica;Perú;Lima;PayPal;36;Femenino;5
+399;Audífonos;4;$ 511;30/03/2024;Accesorios;Perú;Lima;PayPal;31;Masculino;5
+400;Laptop;5;$ 356;29/08/2024;Electrónica;Chile;Santiago;PayPal;37;Femenino;2
+401;Cámara;2;$ 709;03/08/2024;Electrónica;Argentina;Buenos Aires;Efectivo;20;Masculino;2
+402;Reloj;7;$ 34;21/11/2023;Accesorios;Argentina;Buenos Aires;Efectivo;65;Masculino;4
+403;Audífonos;3;$ 638;20/07/2024;Accesorios;Colombia;Bogotá;PayPal;58;Femenino;2
+404;Cámara;6;$ 238;16/09/2024;Electrónica;México;Ciudad de México;Efectivo;59;Masculino;1
+405;Smartphone;5;$ 276;03/10/2024;Electrónica;Colombia;Bogotá;Efectivo;18;Femenino;2
+406;Cámara;2;$ 802;06/03/2024;Electrónica;Argentina;Buenos Aires;PayPal;56;Masculino;3
+407;Smartphone;6;$ 956;13/03/2024;Electrónica;Colombia;Bogotá;Efectivo;18;Masculino;2
+408;Reloj;5;$ 323;06/07/2024;Accesorios;Perú;Lima;Tarjeta de crédito;27;Femenino;4
+409;Televisor;6;$ 829;14/06/2024;Electrónica;Colombia;Bogotá;PayPal;67;Masculino;1
+410;Smartphone;8;$ 113;19/06/2024;Electrónica;Argentina;Buenos Aires;Tarjeta de crédito;21;Masculino;5
+411;Laptop;5;$ 638;08/05/2024;Electrónica;Chile;Santiago;Tarjeta de crédito;23;Femenino;1
+412;Televisor;5;$ 754;18/07/2024;Electrónica;España;Madrid;Tarjeta de crédito;35;Masculino;1
+413;Laptop;3;$ 164;09/01/2024;Electrónica;Chile;Santiago;Tarjeta de crédito;36;Femenino;3
+414;Laptop;3;$ 432;29/07/2024;Electrónica;Perú;Lima;Tarjeta de crédito;63;Femenino;1
+415;Laptop;2;$ 894;09/10/2023;Electrónica;México;Ciudad de México;Tarjeta de crédito;29;Femenino;2
+416;Laptop;4;$ 113;17/01/2024;Electrónica;Chile;Santiago;PayPal;18;Masculino;4
+417;Smartphone;1;$ 28;08/09/2024;Electrónica;Perú;Lima;PayPal;56;Femenino;1
+418;Laptop;2;$ 595;27/03/2024;Electrónica;Argentina;Buenos Aires;Efectivo;62;Masculino;1
+419;Audífonos;2;$ 441;10/02/2024;Accesorios;Colombia;Bogotá;PayPal;59;Femenino;2
+420;Smartphone;7;$ 801;21/09/2024;Electrónica;México;Ciudad de México;Tarjeta de crédito;35;Masculino;1
+421;Reloj;9;$ 924;08/12/2023;Accesorios;México;Ciudad de México;PayPal;62;Femenino;5
+422;Smartphone;7;$ 306;09/08/2024;Electrónica;México;Ciudad de México;Tarjeta de crédito;36;Masculino;1
+423;Cámara;4;$ 395;07/08/2024;Electrónica;Colombia;Bogotá;Tarjeta de crédito;24;Masculino;1
+424;Reloj;1;$ 491;17/09/2024;Accesorios;Perú;Lima;PayPal;33;Femenino;1
+425;Laptop;8;$ 592;04/03/2024;Electrónica;Chile;Santiago;Tarjeta de crédito;57;Masculino;5
+426;Laptop;4;$ 984;19/10/2023;Electrónica;Colombia;Bogotá;Tarjeta de crédito;18;Masculino;5
+427;Cámara;3;$ 700;27/02/2024;Electrónica;Perú;Lima;Tarjeta de crédito;55;Femenino;5
+428;Televisor;6;$ 396;13/03/2024;Electrónica;España;Madrid;Tarjeta de crédito;54;Femenino;5
+429;Laptop;8;$ 271;27/12/2023;Electrónica;México;Ciudad de México;Tarjeta de crédito;25;Femenino;1
+430;Reloj;4;$ 945;05/01/2024;Accesorios;Argentina;Buenos Aires;PayPal;63;Masculino;2
+431;Reloj;5;$ 144;22/03/2024;Accesorios;Colombia;Bogotá;Tarjeta de crédito;29;Femenino;4
+432;Reloj;8;$ 723;22/08/2024;Accesorios;México;Ciudad de México;PayPal;22;Masculino;4
+433;Smartphone;7;$ 926;25/02/2024;Electrónica;Colombia;Bogotá;PayPal;24;Femenino;1
+434;Smartphone;8;$ 668;01/06/2024;Electrónica;Perú;Lima;PayPal;56;Femenino;3
+435;Reloj;4;$ 429;22/10/2023;Accesorios;Colombia;Bogotá;PayPal;58;Femenino;4
+436;Smartphone;7;$ 207;11/11/2023;Electrónica;Chile;Santiago;PayPal;24;Femenino;5
+437;Televisor;4;$ 374;01/04/2024;Electrónica;Colombia;Bogotá;Tarjeta de crédito;34;Masculino;3
+438;Smartphone;8;$ 710;26/12/2023;Electrónica;Perú;Lima;PayPal;52;Femenino;2
+439;Audífonos;2;$ 653;28/09/2024;Accesorios;Argentina;Buenos Aires;PayPal;34;Masculino;3
+440;Televisor;4;$ 929;06/04/2024;Electrónica;España;Madrid;Efectivo;50;Femenino;2
+441;Smartphone;8;$ 868;08/09/2024;Electrónica;España;Madrid;PayPal;46;Masculino;3
+442;Audífonos;9;$ 818;03/06/2024;Accesorios;Colombia;Bogotá;PayPal;54;Femenino;4
+443;Televisor;9;$ 912;15/03/2024;Electrónica;Colombia;Bogotá;Efectivo;50;Masculino;5
+444;Audífonos;5;$ 284;16/12/2023;Accesorios;Colombia;Bogotá;PayPal;67;Femenino;2
+445;Smartphone;6;$ 376;03/07/2024;Electrónica;España;Madrid;Tarjeta de crédito;66;Masculino;2
+446;Smartphone;4;$ 386;14/09/2024;Electrónica;Perú;Lima;PayPal;26;Masculino;3
+447;Smartphone;7;$ 565;27/02/2024;Electrónica;Perú;Lima;Efectivo;39;Masculino;5
+448;Laptop;7;$ 672;06/05/2024;Electrónica;Colombia;Bogotá;PayPal;68;Masculino;1
+449;Audífonos;3;$ 294;02/04/2024;Accesorios;Perú;Lima;Tarjeta de crédito;42;Masculino;2
+450;Laptop;4;$ 29;20/05/2024;Electrónica;Chile;Santiago;PayPal;34;Masculino;5
+451;Reloj;6;$ 405;29/05/2024;Accesorios;Colombia;Bogotá;Tarjeta de crédito;39;Femenino;1
+452;Smartphone;8;$ 315;24/06/2024;Electrónica;Argentina;Buenos Aires;Tarjeta de crédito;28;Femenino;2
+453;Reloj;1;$ 943;15/08/2024;Accesorios;Argentina;Buenos Aires;Efectivo;50;Masculino;5
+454;Televisor;8;$ 889;27/08/2024;Electrónica;España;Madrid;Efectivo;26;Femenino;2
+455;Laptop;2;$ 862;26/01/2024;Electrónica;Argentina;Buenos Aires;Tarjeta de crédito;55;Femenino;4
+456;Audífonos;3;$ 656;28/08/2024;Accesorios;España;Madrid;PayPal;24;Femenino;5
+457;Cámara;6;$ 351;24/05/2024;Electrónica;Perú;Lima;Efectivo;44;Femenino;3
+458;Smartphone;1;$ 553;06/08/2024;Electrónica;Argentina;Buenos Aires;Efectivo;60;Masculino;3
+459;Reloj;6;$ 817;22/12/2023;Accesorios;España;Madrid;Tarjeta de crédito;45;Femenino;1
+460;Reloj;9;$ 108;25/10/2023;Accesorios;México;Ciudad de México;Efectivo;63;Femenino;4
+461;Reloj;9;$ 803;15/03/2024;Accesorios;Argentina;Buenos Aires;PayPal;43;Masculino;1
+462;Laptop;3;$ 51;12/05/2024;Electrónica;Perú;Lima;Efectivo;38;Femenino;3
+463;Laptop;6;$ 818;03/09/2024;Electrónica;Colombia;Bogotá;PayPal;38;Masculino;5
+464;Cámara;4;$ 809;28/04/2024;Electrónica;España;Madrid;Tarjeta de crédito;31;Masculino;4
+465;Televisor;2;$ 61;12/07/2024;Electrónica;España;Madrid;Tarjeta de crédito;52;Masculino;2
+466;Laptop;8;$ 631;06/07/2024;Electrónica;Chile;Santiago;Efectivo;22;Masculino;2
+467;Audífonos;4;$ 507;26/08/2024;Accesorios;México;Ciudad de México;Efectivo;66;Femenino;5
+468;Audífonos;9;$ 178;02/02/2024;Accesorios;México;Ciudad de México;Tarjeta de crédito;32;Masculino;3
+469;Reloj;6;$ 157;09/04/2024;Accesorios;Perú;Lima;Efectivo;42;Femenino;1
+470;Smartphone;6;$ 776;22/07/2024;Electrónica;Perú;Lima;Efectivo;19;Femenino;3
+471;Reloj;2;$ 572;15/12/2023;Accesorios;Colombia;Bogotá;PayPal;57;Femenino;5
+472;Audífonos;8;$ 983;28/07/2024;Accesorios;España;Madrid;Efectivo;61;Masculino;3
+473;Audífonos;3;$ 982;26/08/2024;Accesorios;México;Ciudad de México;Tarjeta de crédito;31;Femenino;1
+474;Audífonos;2;$ 993;30/05/2024;Accesorios;México;Ciudad de México;Tarjeta de crédito;54;Masculino;1
+475;Reloj;1;$ 127;11/03/2024;Accesorios;Chile;Santiago;Tarjeta de crédito;51;Femenino;4
+476;Cámara;2;$ 939;21/09/2024;Electrónica;Perú;Lima;PayPal;30;Masculino;4
+477;Smartphone;1;$ 252;24/04/2024;Electrónica;Colombia;Bogotá;Efectivo;34;Masculino;4
+478;Cámara;2;$ 464;11/10/2023;Electrónica;Perú;Lima;PayPal;23;Masculino;3
+479;Cámara;2;$ 760;08/11/2023;Electrónica;Colombia;Bogotá;Tarjeta de crédito;51;Masculino;2
+480;Smartphone;7;$ 212;29/11/2023;Electrónica;México;Ciudad de México;Tarjeta de crédito;49;Femenino;3
+481;Audífonos;9;$ 571;14/07/2024;Accesorios;Argentina;Buenos Aires;Tarjeta de crédito;26;Femenino;1
+482;Audífonos;9;$ 194;15/03/2024;Accesorios;Chile;Santiago;Tarjeta de crédito;51;Masculino;4
+483;Reloj;4;$ 114;08/04/2024;Accesorios;Argentina;Buenos Aires;PayPal;18;Femenino;5
+484;Reloj;3;$ 125;25/04/2024;Accesorios;Chile;Santiago;Tarjeta de crédito;50;Masculino;2
+485;Cámara;1;$ 364;16/07/2024;Electrónica;Argentina;Buenos Aires;PayPal;49;Femenino;3
+486;Smartphone;8;$ 15;06/09/2024;Electrónica;Colombia;Bogotá;Efectivo;20;Femenino;2
+487;Smartphone;5;$ 431;13/10/2023;Electrónica;Perú;Lima;Efectivo;60;Masculino;5
+488;Laptop;7;$ 668;26/09/2024;Electrónica;Perú;Lima;Efectivo;45;Femenino;4
+489;Laptop;1;$ 408;12/05/2024;Electrónica;Perú;Lima;PayPal;34;Masculino;4
+490;Cámara;6;$ 95;07/02/2024;Electrónica;España;Madrid;Efectivo;41;Masculino;1
+491;Reloj;4;$ 72;11/02/2024;Accesorios;Colombia;Bogotá;Efectivo;20;Femenino;3
+492;Audífonos;4;$ 285;27/02/2024;Accesorios;México;Ciudad de México;Tarjeta de crédito;25;Masculino;1
+493;Televisor;5;$ 178;04/05/2024;Electrónica;Argentina;Buenos Aires;Tarjeta de crédito;55;Masculino;2
+494;Audífonos;1;$ 965;20/10/2023;Accesorios;Perú;Lima;PayPal;63;Masculino;5
+495;Cámara;7;$ 160;03/06/2024;Electrónica;México;Ciudad de México;PayPal;38;Masculino;5
+496;Smartphone;6;$ 807;25/06/2024;Electrónica;Colombia;Bogotá;Efectivo;18;Femenino;1
+497;Laptop;4;$ 590;31/03/2024;Electrónica;Perú;Lima;Tarjeta de crédito;25;Femenino;1
+498;Reloj;1;$ 574;06/08/2024;Accesorios;Argentina;Buenos Aires;Tarjeta de crédito;43;Femenino;2
+499;Smartphone;1;$ 517;01/04/2024;Electrónica;Chile;Santiago;Efectivo;42;Femenino;4
+500;Reloj;2;$ 972;04/01/2024;Accesorios;España;Madrid;Efectivo;19;Femenino;5
